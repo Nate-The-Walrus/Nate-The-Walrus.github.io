@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Nathan Prevost"
-  avatar           : "/images/Avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/florence.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Business Professional, Casual Human"
   location         : "Minneapolis, MN, USA"
   email            : "prevo027@umn.edu"

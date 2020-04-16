@@ -2,7 +2,7 @@
 title: "About Me"
 permalink: /about/
 header:
-  image: "/images/Greece_1.jpg"
+  image: "/images/editgreece.jpg"
 ---
 
 Currently, I am a senior at The University of Minnesota Carlson School of Management where I am studying Finance and Analytics. After graduation this May, I intend to leverage my analytical skills to contribute value to a company
