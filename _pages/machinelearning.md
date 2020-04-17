@@ -4,7 +4,7 @@ permalink: /My-Projects/
 title: "Articles"
 author_profile: true
 header:
-  image: "/images/Greece_01.jpg"
+  image: "/images/editgreece.jpg"
 ---
 
 
