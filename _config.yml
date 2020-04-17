@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-logo                     : "/assets/images/logo.jpg"
+logo                     : "/images/logo1.jpg"
 title                    : "Nate The Walrus - A Collection of Sorts"
 title_separator          : "-"
 name                     : "Nathan Prevost"
