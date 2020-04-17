@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /My-Projects/
 title: "Articles"
 author_profile: true
