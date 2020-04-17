@@ -3,7 +3,7 @@ title: "Why I Made a Website"
 date: 2020-04-16
 tags: [purpose, website, personal]
 header:
-  image: "/images/sense.jpg"
+  image: "/images/sense1.jpg"
 excerpt: "Work or Play"
 mathjax: "true"
 ---
