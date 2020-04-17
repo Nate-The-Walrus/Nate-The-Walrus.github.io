@@ -1,14 +1,14 @@
 ---
 title: "Why I Made a Website"
 date: 2020-04-16
-tags: [purpose, website, personal]
+tags: [website]
 header:
   image: "/images/sense1.jpg"
 excerpt: "Work or Play"
 mathjax: "true"
 ---
 
-## Why Would I Waste My Time Building a Website?
+## Why Would I Spend My Time Building a Website?
 
 
 I will not sit here and claim that creating a website was an extraordinarily original idea. 
