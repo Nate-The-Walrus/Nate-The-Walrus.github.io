@@ -3,11 +3,10 @@ title: "Why I Made a Website"
 date: 2020-04-16
 tags: [purpose, website, personal]
 header:
-  image: "/images/WHY.jpg"
+  image: "/images/sense.jpg"
 excerpt: "Work or Play"
 mathjax: "true"
 ---
-
 
 ## Why Would I Waste My Time Building a Website?
 
@@ -35,11 +34,7 @@ So, why would I create a website when it is not necessary?
 		
 		4. Lastly, it is April 16th, 2020; and I am in quarantine at my parents house.
 		
-
-
-<img src="{{ site.url }}{{ site.baseurl }}/images/sense.jpg" alt="Charlie Day">
-
-
+		
 ### Thank You For Reading!
 		Hopefully the website is here to stay
 		as it seems pretty fun so far!
