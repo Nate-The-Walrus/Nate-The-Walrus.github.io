@@ -1,6 +1,7 @@
 ---
 layout: archive
 permalink: /My-Projects/
+paginate: 1
 title: "Articles"
 author_profile: true
 header:
