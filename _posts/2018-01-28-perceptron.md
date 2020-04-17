@@ -1,63 +1,40 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Why I Made a Website"
+date: 2020-04-16
+tags: [purpose, website, personal]
 header:
-  image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+  image: "/images/WHY.jpg"
+excerpt: "Work or Play"
 mathjax: "true"
 ---
 
-# H1 Heading
 
-## H2 Heading
+## Why Would I Waste My Time Building a Website?
 
-### H3 Heading
 
-Here's some basic text.
+I will not sit here and claim that creating a website was an extraordinarily original idea.
+However, I knew it would take a considerable amount of time. Especially to make it appear the way
+I want it to (which is still doesn't, and perhaps never will). My first thought is that it would be a
+great way to display my school and professional work. Then, I became excited at the thought of creating original
+content in the form of blog posts and videos. All of the sudden, I was hit with the brilliant idea of organizing
+my photos on the site to better show the places I have gone.
 
-And here's some *italics*
+**Hold Up**
 
-Here's some **bold** text.
+This became a ridiculous daydream as I realized there is already forums and websites for opinionated blog posts.
+Instagram and YouTube already serve as the premier places to post pictures and videos.
+So, why would I create a website when it is not necessary?
 
-What about a [link](https://github.com/dataoptimal)?
+**Let me try to explain myself:**
+		1. There doesn't always need to be a necessary reason to do something, but sometimes something is of interest to you and motivates you to action - the idea of a personal website motivated me
+		2. I rarely use popular social media like YouTube and Instagram to post content, so why not have another medium for myself?
+		3. It may be a good skill to learn how to build parts of a website since it seems like the technology fad may not be going away?
+		4. Lastly, it is April 16th, 2020; and I am in quarantine at my parents house.
 
-Here's a bulleted list:
-* First item
-+ Second item
-- Third item
 
-Here's a numbered list:
-1. First
-2. Second
-3. Third
+<img src="{{ site.url }}{{ site.baseurl }}/images/makes_sense.jpg">
 
-Python code block:
-```python
-    import numpy as np
 
-    def test_function(x, y):
-      z = np.sum(x,y)
-      return z
-```
-
-R code block:
-```r
-library(tidyverse)
-df <- read_csv("some_file.csv")
-head(df)
-```
-
-Here's some inline code `x+y`.
-
-Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg" alt="linearly separable data">
-
-Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/perceptron/linsep.jpg)
-
-Here's some math:
-
-$$z=x+y$$
-
-You can also put it inline $$z=x+y$$
+### Thank You For Reading!
+		Hopefully the website is here to stay
+		as it seems pretty fun so far!
