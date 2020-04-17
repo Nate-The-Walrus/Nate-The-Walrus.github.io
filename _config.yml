@@ -11,7 +11,7 @@ repository: "Nate-The-Walrus/Nate-The-Walrus.github.io"
 # Site Settings
 locale                   : "en-US"
 
-title                    : "Nate The Walrus - A Collection of Sorts"
+title                    : "Nate The Walrus"
 logo                     : "/images/logo1.jpg"
 title_separator          : "-"
 name                     : "Nathan Prevost"
