@@ -32,7 +32,7 @@ So, why would I create a website when it is not necessary?
 		4. Lastly, it is April 16th, 2020; and I am in quarantine at my parents house.
 
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/makes_sense.jpg">
+<img src="{{ site.url }}{{ site.baseurl }}/images/sense.jpg">
 
 
 ### Thank You For Reading!
