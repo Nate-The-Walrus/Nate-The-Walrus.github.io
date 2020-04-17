@@ -1,7 +1,7 @@
 ---
-layout: posts
+layout: archive
 permalink: /My-Projects/
-title: "Projects and Miscellaneous"
+title: "Articles"
 author_profile: true
 header:
   image: "/images/Greece_01.jpg"
