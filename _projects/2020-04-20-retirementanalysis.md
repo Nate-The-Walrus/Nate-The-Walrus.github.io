@@ -5,7 +5,6 @@ tags: [Simulation]
 header:
 excerpt: "Projected Retirement"
 mathjax: "true"
-layout: collection
 ---
 
 ## Will You Be Able To Retire On Time?
