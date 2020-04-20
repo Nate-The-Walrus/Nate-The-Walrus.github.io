@@ -240,7 +240,7 @@ tag_archive:
 #     tag: /tags/:name/
 
 collections:
-  portfolio
+  portfolio:
     output: true
     permalink: /:collection/:path/
 
