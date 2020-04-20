@@ -253,8 +253,8 @@ compress_html:
 # Collections
 collections:
     projects:
-        output: true
-        permalink: /collection/:path/
+     output: true
+     permalink: /:collection/:path/
 
 # Defaults for projects collection
 
