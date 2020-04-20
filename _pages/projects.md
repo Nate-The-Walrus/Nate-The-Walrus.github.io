@@ -1,8 +1,8 @@
 ---
-layout: single
 title: "Projects"
-permalink: /Projects/
+layout: collection
+permalink: /projects/
+entries_layout: grid
+classes: wide
 
-author_profile: true
-header:
 ---

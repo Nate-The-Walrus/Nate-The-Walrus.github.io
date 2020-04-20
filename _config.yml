@@ -254,14 +254,21 @@ compress_html:
 collections:
     projects:
         output: true
-        permalink: /projects/:path/
+        permalink: /collection/:path/
 
-
-
-
+# Defaults for projects collection
 
 # Defaults
 defaults:
+  # _projects
+  - scope:
+        path: ""
+        type: projects
+      values:
+        layout: single
+        author_profile: false
+        share: true
+        
   # _posts
   - scope:
       path: ""
