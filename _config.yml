@@ -13,7 +13,7 @@ repository: "Nate-The-Walrus/Nate-The-Walrus.github.io"
 locale                   : "en-US"
 
 title                    : "Nate The Walrus - A Collection of Sorts"
-icon                     : "/images/logo1.jpg"
+logo                     : "/images/logo1.jpg"
 title_separator          : "-"
 name                     : "Nathan Prevost"
 description              : "A Website All For Me"
@@ -239,13 +239,6 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-
-
-
 
 
 
@@ -283,11 +276,4 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: false
-      share: true
+  
